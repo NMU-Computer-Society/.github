@@ -6,6 +6,6 @@ After reviewing the submissions, here are the standout profiles that truly impre
 
 | Fanelesibonge Hlebani | Yandisa Zide | Katlego Mokhukhwane | Pamella | Lesley Ngcobo |
 |:---------------------:|:------------:|:--------------------:|:-------:|:-------------:|
-| [![Fanelesibonge](https://github.com/Sov3r3ign.png?size=100)](https://github.com/Sov3r3ign) | [![Yandisa](https://github.com/yzide12.png?size=100)](https://github.com/yzide12) | [![Katlego](https://github.com/Nerd-IT05.png?size=100)](https://github.com/Nerd-IT05) | [![Pamella](https://github.com/Pamella67.png?size=5)](https://github.com/Pamella67) | [![Lesley](https://github.com/lesley-2198.png?size=5)](https://github.com/lesley-2198) |
+| [![Fanelesibonge](https://github.com/Sov3r3ign.png?size=100)](https://github.com/Sov3r3ign) | [![Yandisa](https://github.com/yzide12.png?size=100)](https://github.com/yzide12) | [![Katlego](https://github.com/Nerd-IT05.png?size=100)](https://github.com/Nerd-IT05) | [![Pamella](https://github.com/Pamella67.png?size=5)](https://github.com/Pamella67) | [![Lesley](https://github.com/lesley-2198.png?size=100)](https://github.com/lesley-2198) |
 
 
